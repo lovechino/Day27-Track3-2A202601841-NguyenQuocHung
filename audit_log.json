@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-08-29T04:52:27.393391+00:00",
+    "agent_id": "churn-risk-agent",
+    "action": "increase_credit_limit",
+    "confidence": 0.91,
+    "reviewer_id": "operator_01",
+    "decision": "approve"
+  }
+]

@@ -1,0 +1,5 @@
+langgraph>=0.2.0
+langchain-core
+pydantic>=2.0
+streamlit>=1.30.0
+python-dotenv
